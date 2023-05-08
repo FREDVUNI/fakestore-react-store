@@ -1,5 +1,3 @@
-Here's a sample README for an online React JS shop using the fakeStoreAPI:
-
 # React JS Shop with fakeStoreAPI
 
 This is a simple React JS e-commerce app that uses the [fakeStoreAPI](https://fakestoreapi.com/) to fetch categories and products. The app features a responsive design, product listing and detail pages, a shopping cart, and a checkout form.
