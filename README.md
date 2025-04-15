@@ -26,6 +26,11 @@ To run this app on your local machine, follow these steps:
 - HTML
 - CSS
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/7596bb8e-4a19-4634-9850-aaa1c41c26b9)
+
+
 ## Credits
 
 - This app was created by [FREDVUNI](https://github.com/FREDVUNI).
