@@ -35,5 +35,4 @@ To run this app on your local machine, follow these steps:
 
 - This app was created by [FREDVUNI](https://github.com/FREDVUNI).
 - The [fakeStoreAPI](https://fakestoreapi.com/) was used to fetch categories and products.
-- The shopping cart and checkout form were inspired by [ReactShoppingCart](https://github.com/jeffersonRibeiro/react-shopping-cart). 
 
