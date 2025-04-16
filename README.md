@@ -32,7 +32,5 @@ To run this app on your local machine, follow these steps:
 
 
 ## Credits
-
-- This app was created by [FREDVUNI](https://github.com/FREDVUNI).
 - The [fakeStoreAPI](https://fakestoreapi.com/) was used to fetch categories and products.
 
