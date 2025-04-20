@@ -6,7 +6,7 @@ This is a simple React JS e-commerce app that uses the [fakeStoreAPI](https://fa
 
 To run this app on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/FREDVUNI/react-store.git`
+1. Clone this repository: `git clone https://github.com/FREDVUNI/fakestore-react-store.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the app in your browser at `http://localhost:3000`
