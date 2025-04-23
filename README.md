@@ -21,6 +21,7 @@ To run this app on your local machine, follow these steps:
 ## Technologies Used
 
 - React JS
+- React slick slider
 - React Router
 - Axios
 - HTML
